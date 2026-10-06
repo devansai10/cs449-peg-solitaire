@@ -13,4 +13,4 @@ mvn package
 java -jar target/peg-solitaire-brainvita-1.0-SNAPSHOT.jar
 ```
 
-See `game/README.md` for game rules and design details. The final report and screenshots are in `sprint1/`. Earlier Sprint 0 work is preserved in `Sprint0-Ready-to-Upload/`.
+See `game/README.md` for game rules and design details. The final report and screenshots are in `sprint1/`. Earlier Sprint 0 work is preserved in `Sprint 0/`.

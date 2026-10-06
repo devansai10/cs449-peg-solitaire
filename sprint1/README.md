@@ -4,4 +4,4 @@ The final report contains the user stories, acceptance criteria, priorities, eff
 
 The evidence folder also includes a real VS Code screenshot showing all 12 tests passing with BUILD SUCCESS.
 
-Submit CS449_Sprint1_Report_Final.docx through the course submission portal and include the repository link. Uploading to GitHub does not submit the report to the course portal.
+Submit `Sprint1_Report.pdf` through the course submission portal and include the repository link. Uploading to GitHub does not submit the report to the course portal.
