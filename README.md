@@ -4,7 +4,7 @@ Student: Devansai
 
 ## Sprint 2
 
-The Sprint 2 submission is in `Sprint 2/`. It contains the Java 21 Swing game, four acceptance tests added for Sprint 2, the report, and supporting evidence. The complete Maven suite contains 16 passing JUnit 5 tests.
+The Sprint 2 code is in `Sprint 2/`. It contains the Java 21 Swing game and four acceptance tests added for Sprint 2. The complete Maven suite contains 16 passing JUnit 5 tests.
 
 ```sh
 cd "Sprint 2/game"
